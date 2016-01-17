@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\javax.annotation-api-1.2-59225308f9b2b44eac6c4190cd69f1bfa049d506.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2\hk2-locator\2.4.0-b31\436d6e1ad2b0a3aee939c6e05983b007b3578142\hk2-locator-2.4.0-b31.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="436d6e1ad2b0a3aee939c6e05983b007b3578142">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\hk2-locator-2.4.0-b31-b2da631572ae9d917c6327f20ff04e0520a893d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.javassist\javassist\3.18.1-GA\d9a09f7732226af26bf99f19e2cffe0ae219db5b\javassist-3.18.1-GA.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9a09f7732226af26bf99f19e2cffe0ae219db5b">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\javassist-3.18.1-GA-6c627ad1a3060c198a06ac731cc09b4acc23cf65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2.external\javax.inject\2.4.0-b31\4bb71bbdae1064675e36d057bd2c95a00e2e84b\javax.inject-2.4.0-b31.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04bb71bbdae1064675e36d057bd2c95a00e2e84b">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\javax.inject-2.4.0-b31-b9b290217d8df2eaf5f51cead2c35f0f9c937c0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-guava\2.22.1\2b79eb893818539370899c24893fac9b2fdc4dbd\jersey-guava-2.22.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2b79eb893818539370899c24893fac9b2fdc4dbd">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\jersey-guava-2.22.1-8b1102d9732588e7958d57f9fdf7e9ab185ff68b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\gson-2.5-779bf386c7f242507041ba64acc3eea4647e0cbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2.external\aopalliance-repackaged\2.4.0-b31\5e7899ad02fd55f5651a5e5d1a70aee421ba2030\aopalliance-repackaged-2.4.0-b31.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e7899ad02fd55f5651a5e5d1a70aee421ba2030">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\aopalliance-repackaged-2.4.0-b31-d6c8344d7ba43f1d3f896703484bda2fc5a2fd4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.core\jersey-common\2.22.1\b5811d8385766f35d10d204952f3d5b57ee2fb60\jersey-common-2.22.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5811d8385766f35d10d204952f3d5b57ee2fb60">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\jersey-common-2.22.1-1c21f1f799bb5c1ee250c4a04072a28858cb7cde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2\osgi-resource-locator\1.0.1\4ed2b2d4738aed5786cfa64cba5a332779c4c708\osgi-resource-locator-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ed2b2d4738aed5786cfa64cba5a332779c4c708">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\osgi-resource-locator-1.0.1-a88edc500b27408fd3f4149b05a54cebba26cf9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\javax.ws.rs\javax.ws.rs-api\2.0.1\104e9c2b5583cfcfeac0402316221648d6d8ea6b\javax.ws.rs-api-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="104e9c2b5583cfcfeac0402316221648d6d8ea6b">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\javax.ws.rs-api-2.0.1-a7dd860b144ef83a154f58d1701795660318780f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2\hk2-api\2.4.0-b31\c4b5f6c426f8e412e606332b93b7cf745a9a12c5\hk2-api-2.4.0-b31.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c4b5f6c426f8e412e606332b93b7cf745a9a12c5">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\hk2-api-2.4.0-b31-32570add5d1fc079f120e0db3a9744918097daf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.core\jersey-client\2.22.1\e39297ef90f4b9bdf0a61b6fa73ae275c1b6e8f1\jersey-client-2.22.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e39297ef90f4b9bdf0a61b6fa73ae275c1b6e8f1">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\jersey-client-2.22.1-e0e69c5c8f91c5f56a6c2663a4aefce241bbc534.jar" />
+    </item>
+    <item
+        jar="C:\Users\Feliu\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2\hk2-utils\2.4.0-b31\2c5cb698cfec8dde859c3db854178d03bf7248a6\hk2-utils-2.4.0-b31.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c5cb698cfec8dde859c3db854178d03bf7248a6">
+        <dex dex="C:\Users\Feliu\AndroidStudioProjects\dsa-projects\beeter-project\android\app\build\intermediates\pre-dexed\debug\hk2-utils-2.4.0-b31-5fe576355f36c8c0e2156d4b46e2baafe4efb478.jar" />
+    </item>
+
+</items>
